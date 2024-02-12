@@ -1,6 +1,6 @@
 import React from 'react'
-import "./home.css"
-const Home = () => {
+import "./contact.css"
+const Contact = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Contact
